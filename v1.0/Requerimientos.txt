@@ -1,0 +1,12 @@
+Kata One - Ticket => Requerimientos
+-----------------
+
+-> El sistema deberá gestionar clientes. 
+-> El sistema deberá gestionar operarios de soporte. 
+-> El sistema deberá gestionar tickets.
+-> El sistema debera permitir gestionar tickets del cliente.
+-> El sistema deberá permitir al operador asignarse un ticket.
+-> El sistema deberá permitir consultar un ticket.
+-> El sistema deberá permitir registrar la comunicacion entre el operario y el cliente en un ticket (tanto al soporte como al cliente). 
+-> El sistema deberá permitir dar por finalizado un ticket. 
+-> El sistema deberá permitir reabrir un ticket ya finalizado.
