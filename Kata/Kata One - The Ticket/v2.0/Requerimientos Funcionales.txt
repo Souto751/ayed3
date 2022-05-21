@@ -1,0 +1,9 @@
+-> Gestión de tickets
+-> Gestión de usuarios
+-> Gestión de representantes
+-> Hacer preguntas
+-> Hacer comentarios
+-> Registrar comunicación
+-> Alertar:
+   1) Preguntas (notificar al representante)
+   2) Actualizaciones / finalización (notificar al cliente)
