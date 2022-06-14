@@ -1,0 +1,4 @@
+-> La aplicación deberá ser de escritorio, desarrollada con C++, e implementando una base de datos relacional.
+-> Deberá ser la misma aplicación para todos los usuarios, diferenciandolos por rol.
+-> Deberá tener un sistema de notificaciones interno, luego se verá si se añade una opción para enviar por mail.
+-> La aplicación será por consola.

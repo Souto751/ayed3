@@ -1,0 +1,4 @@
+-> Ticket
+-> Usuario:
+   a) Cliente
+   b) Representante
